@@ -28,7 +28,7 @@
 table{
  font-family:arial,sans-serif;
  border-collapse:collapse;
- wisth:100%
+ wisth:100 %
 {
 
  td, th {
@@ -106,7 +106,7 @@ table{
 table{
  font-family:arial,sans-serif;
  border-collapse:collapse;
- wisth:100%
+ wisth:100 %
 {
 
  td, th {
@@ -184,7 +184,7 @@ table{
 table{
  font-family:arial,sans-serif;
  border-collapse:collapse;
- wisth:100%
+ wisth:100 %
 {
 
  td, th {
@@ -261,7 +261,7 @@ table{
 table{
  font-family:arial,sans-serif;
  border-collapse:collapse;
- wisth:100%
+ wisth:100 %
 {
 
  td, th {
@@ -337,7 +337,7 @@ Write to Jimely Diola
 table{
  font-family:arial,sans-serif;
  border-collapse:collapse;
- wisth:100%
+ wisth:100 %
 {
 
  td, th {
@@ -414,7 +414,7 @@ table{
 table{
  font-family:arial,sans-serif;
  border-collapse:collapse;
- wisth:100%
+ wisth:100 %
 {
 
  td, th {
@@ -501,7 +501,7 @@ table{
 table{
  font-family:arial,sans-serif;
  border-collapse:collapse;
- wisth:100%
+ wisth:100 %
 {
 
  td, th {
@@ -588,7 +588,7 @@ table{
 table{
  font-family:arial,sans-serif;
  border-collapse:collapse;
- wisth:100%
+ wisth:100 %
 {
 
  td, th {
@@ -676,7 +676,7 @@ table{
 table{
  font-family:arial,sans-serif;
  border-collapse:collapse;
- wisth:100%
+ wisth:100 %
 {
 
  td, th {
